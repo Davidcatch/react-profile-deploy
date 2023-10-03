@@ -1,7 +1,7 @@
 import ParticlesBg from 'particles-bg';
 import { BsInstagram, BsGithub, BsYoutube, BsLinkedin } from 'react-icons/bs';
 import { FaTiktok } from 'react-icons/fa';
-import Profile from './img/Profile.jpg';
+import Profile from './img/New_Profile.JPG';
 import './App.css';
 
 function App() {
